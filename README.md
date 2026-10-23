@@ -2,4 +2,4 @@
 
 The prickly programming language.
 
-![Logo](./Art/CactusLogo.png)
+![Logo](./Art/CactusLogoV2.jpeg)
